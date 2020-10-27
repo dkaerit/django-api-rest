@@ -1,2 +1,2 @@
 # FLASK REST API CRUD
-Backend básico implementado en python
+Backend básico con flask implementado en python
