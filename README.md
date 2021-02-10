@@ -1,4 +1,4 @@
-# FLASK REST API CRUD
+# DJANGO REST API CRUD
 Backend básico con flask implementado en python
 
 ```bash
