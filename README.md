@@ -1,4 +1,4 @@
-<center><img src="https://user-images.githubusercontent.com/24440929/107507641-c4bebb80-6b97-11eb-8caa-52b899ad115d.png"></center>
+<center><img src="https://i.imgur.com/vzXnqsm.png"></center>
 
 # DJANGO REST API CRUD
 Backend básico con flask implementado en python
