@@ -1,6 +1,5 @@
 <center><img src="https://i.imgur.com/vzXnqsm.png"></center>
 
-# DJANGO REST API CRUD
 Backend básico con flask implementado en python
 
 ```bash
