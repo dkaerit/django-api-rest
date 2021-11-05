@@ -2,7 +2,7 @@
 
 Backend básico con flask implementado en python. Componente modular para arquitecturas web de microservicios. 
 
-## Paralelismos
+## Generalidades
   * Gestor de paquetes: Pip ([Pyckages](https://pypi.org/))
 
 ```bash
