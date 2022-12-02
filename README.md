@@ -1,6 +1,6 @@
 <center><img src="https://i.imgur.com/vzXnqsm.png"></center>
 
-Backend básico con flask implementado en python. Componente modular para arquitecturas web de microservicios. 
+(En proceso) Backend básico con django implementado en python. Componente modular para arquitecturas web de microservicios. 
 
 ## Generalidades
   * Gestor de paquetes: Pip ([Pyckages](https://pypi.org/))
