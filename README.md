@@ -7,6 +7,6 @@ Backend básico con django implementado en python. Componente modular para arqui
 
 ```bash
 $ pypenv install
-$ npm run start # development
-$ npm run image # levantar contenedor de prod en docker
+$ pypenv run start # development
+#$ pypenv run image # levantar contenedor de prod en docker
 ```
