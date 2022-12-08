@@ -3,12 +3,10 @@
 (En proceso) Backend básico con django implementado en python. Componente modular para arquitecturas web de microservicios. 
 
 ## Generalidades
-  * Gestor de paquetes: Pip ([Pyckages](https://pypi.org/))
+  * Gestor de paquetes: Pipenv ([Pyckages](https://pypi.org/))
 
 ```bash
-$ mkdir <project-name>
-$ git clone <repo> backend
-$ cd backend
-$ git update-index --assume-unchanged .env
-$ .\image.ps1
+$ pypenv install
+$ npm run start # development
+$ npm run image # levantar contenedor de prod en docker
 ```
