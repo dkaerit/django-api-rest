@@ -1,6 +1,6 @@
 <center><img src="https://i.imgur.com/vzXnqsm.png"></center>
 
-(En proceso) Backend básico con django implementado en python. Componente modular para arquitecturas web de microservicios. 
+Backend básico con django implementado en python. Componente modular para arquitecturas web de microservicios. 
 
 ## Generalidades
   * Gestor de paquetes: Pipenv ([Pyckages](https://pypi.org/))
